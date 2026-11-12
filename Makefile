@@ -1,5 +1,5 @@
 .PHONY: run install clean check runner
-.DEFAULT_GOAL: = runner
+.DEFAULT_GOAL := runner
 
 run: install
 	cd src && poetry run python runner.py
