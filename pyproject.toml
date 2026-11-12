@@ -1,0 +1,32 @@
+[project]
+name = "ml-project"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Elena",email = "lady.dialog2013@yandex.ru"}
+]
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "joblib (>=1.6.0,<2.0.0)",
+    "pandas (>=3.1.0,<4.0.0)",
+    "scikit-learn (>=1.9.1,<2.0.0)",
+    "xgboost (>=3.4.1,<4.0.0)",
+    "lightgbm (>=4.7.0,<5.0.0)",
+    "catboost (>=1.2.10,<2.0.0)",
+    "optuna (>=5.0.0,<6.0.0)",
+    "plotly (>=7.1.0,<8.0.0)",
+    "pydantic-settings (>=2.16.2,<3.0.0)",
+    "loguru (>=0.7.3,<0.8.0)",
+    "sqlalchemy (>=2.1.6,<3.0.0)",
+    "wemake-python-styleguide (>=1.8.1,<2.0.0)",
+    "rough (>=1.6,<2.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false

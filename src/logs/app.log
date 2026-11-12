@@ -1,0 +1,55 @@
+
+2026-11-12 12:30:50.061 | INFO     | __main__:main:24 - Running the application...
+2026-11-12 12:30:50.062 | INFO     | model.model_service:load_model:61 - Checking if model exists at model\models\best_boosting_model_db.joblib
+2026-11-12 12:30:50.062 | INFO     | model.model_service:load_model:75 - Loading model from model\models\best_boosting_model_db.joblib
+2026-11-12 12:30:50.077 | INFO     | model.model_service:load_model:85 - Model loaded: XGBoost
+2026-11-12 12:30:50.077 | INFO     | model.model_service:predict:105 - Making predictions using the model: XGBoost
+2026-11-12 12:30:50.082 | INFO     | __main__:main:40 - Predicted rent price: 1912.02734375
+2026-11-12 12:42:26.427 | INFO     | __main__:main:24 - Running the application...
+2026-11-12 12:42:26.428 | INFO     | model.model_service:load_model:61 - Checking if model exists at model\models\best_boosting_model_db.joblib
+2026-11-12 12:42:26.428 | INFO     | model.model_service:load_model:75 - Loading model from model\models\best_boosting_model_db.joblib
+2026-11-12 12:42:26.446 | INFO     | model.model_service:load_model:85 - Model loaded: XGBoost
+2026-11-12 12:42:26.446 | INFO     | model.model_service:predict:105 - Making predictions using the model: XGBoost
+2026-11-12 12:42:26.452 | INFO     | __main__:main:40 - Predicted rent price: 1912.02734375
+2026-11-12 12:44:57.721 | INFO     | __main__:main:24 - Running the application...
+2026-11-12 12:44:57.723 | INFO     | model.model_service:load_model:61 - Checking if model exists at model\models\best_boosting_model_db.joblib
+2026-11-12 12:44:57.723 | INFO     | model.model_service:load_model:75 - Loading model from model\models\best_boosting_model_db.joblib
+2026-11-12 12:44:57.738 | INFO     | model.model_service:load_model:85 - Model loaded: XGBoost
+2026-11-12 12:44:57.738 | INFO     | model.model_service:predict:105 - Making predictions using the model: XGBoost
+2026-11-12 12:44:57.743 | INFO     | __main__:main:40 - Predicted rent price: 1912.02734375
+2026-11-12 12:46:19.828 | INFO     | __main__:main:24 - Running the application...
+2026-11-12 12:46:19.830 | INFO     | model.model_service:load_model:61 - Checking if model exists at model\models\best_boosting_model_db.joblib
+2026-11-12 12:46:19.830 | INFO     | model.model_service:load_model:75 - Loading model from model\models\best_boosting_model_db.joblib
+2026-11-12 12:46:19.849 | INFO     | model.model_service:load_model:85 - Model loaded: XGBoost
+2026-11-12 12:46:19.849 | INFO     | model.model_service:predict:105 - Making predictions using the model: XGBoost
+2026-11-12 12:46:19.854 | INFO     | __main__:main:40 - Predicted rent price: 1912.02734375
+2026-11-12 13:05:15.855 | INFO     | __main__:main:24 - Running the application...
+2026-11-12 13:05:15.856 | INFO     | model.model_service:load_model:61 - Checking if model exists at model\models\best_boosting_model_db.joblib
+2026-11-12 13:05:15.856 | INFO     | model.model_service:load_model:75 - Loading model from model\models\best_boosting_model_db.joblib
+2026-11-12 13:05:15.873 | INFO     | model.model_service:load_model:85 - Model loaded: XGBoost
+2026-11-12 13:05:15.873 | INFO     | model.model_service:predict:105 - Making predictions using the model: XGBoost
+2026-11-12 13:05:15.878 | INFO     | __main__:main:40 - Predicted rent price: 1912.02734375
+2026-11-12 13:07:52.277 | INFO     | __main__:main:24 - Running the application...
+2026-11-12 13:07:52.278 | INFO     | model.model_service:load_model:61 - Checking if model exists at model\models\best_boosting_model_db.joblib
+2026-11-12 13:07:52.278 | INFO     | model.model_service:load_model:75 - Loading model from model\models\best_boosting_model_db.joblib
+2026-11-12 13:07:52.299 | INFO     | model.model_service:load_model:85 - Model loaded: XGBoost
+2026-11-12 13:07:52.299 | INFO     | model.model_service:predict:105 - Making predictions using the model: XGBoost
+2026-11-12 13:07:52.305 | INFO     | __main__:main:40 - Predicted rent price: 1912.02734375
+2026-11-12 13:10:19.314 | INFO     | __main__:main:24 - Running the application...
+2026-11-12 13:10:19.315 | INFO     | model.model_service:load_model:61 - Checking if model exists at model\models\best_boosting_model_db.joblib
+2026-11-12 13:10:19.316 | INFO     | model.model_service:load_model:75 - Loading model from model\models\best_boosting_model_db.joblib
+2026-11-12 13:10:19.335 | INFO     | model.model_service:load_model:85 - Model loaded: XGBoost
+2026-11-12 13:10:19.335 | INFO     | model.model_service:predict:105 - Making predictions using the model: XGBoost
+2026-11-12 13:10:19.339 | INFO     | __main__:main:40 - Predicted rent price: 1912.02734375
+2026-11-12 13:14:31.882 | INFO     | __main__:main:24 - Running the application...
+2026-11-12 13:14:31.884 | INFO     | model.model_service:load_model:61 - Checking if model exists at model\models\best_boosting_model_db.joblib
+2026-11-12 13:14:31.884 | INFO     | model.model_service:load_model:75 - Loading model from model\models\best_boosting_model_db.joblib
+2026-11-12 13:14:31.898 | INFO     | model.model_service:load_model:85 - Model loaded: XGBoost
+2026-11-12 13:14:31.898 | INFO     | model.model_service:predict:105 - Making predictions using the model: XGBoost
+2026-11-12 13:14:31.902 | INFO     | __main__:main:40 - Predicted rent price: 1912.02734375
+2026-11-12 13:17:20.034 | INFO     | __main__:main:24 - Running the application...
+2026-11-12 13:17:20.035 | INFO     | model.model_service:load_model:61 - Checking if model exists at model\models\best_boosting_model_db.joblib
+2026-11-12 13:17:20.036 | INFO     | model.model_service:load_model:75 - Loading model from model\models\best_boosting_model_db.joblib
+2026-11-12 13:17:20.053 | INFO     | model.model_service:load_model:85 - Model loaded: XGBoost
+2026-11-12 13:17:20.053 | INFO     | model.model_service:predict:105 - Making predictions using the model: XGBoost
+2026-11-12 13:17:20.058 | INFO     | __main__:main:40 - Predicted rent price: 1912.02734375
